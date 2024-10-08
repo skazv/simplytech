@@ -1,0 +1,2 @@
+# simplytech
+Intership tasks
